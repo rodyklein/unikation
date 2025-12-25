@@ -44,5 +44,6 @@ Certain elements of the work remain situational and are meant to be engaged with
 ## Contact
 For discussion or collaboration inquiries related to Unikation:  
 contact@unikation.org
+
 If needed, you can also reach:  
 rody.klein@gmail.com
