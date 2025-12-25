@@ -42,8 +42,8 @@ Certain elements of the work remain situational and are meant to be engaged with
   https://doi.org/10.5281/zenodo.17936079
 
 ## Contact
-For discussion or collaboration inquiries related to Unikation:  
-contact@unikation.org
 
+For discussion or collaboration inquiries related to Unikation:  
+contact@unikation.org  
 If needed, you can also reach:  
 rody.klein@gmail.com
