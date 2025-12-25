@@ -1,12 +1,14 @@
 > **Unikation** is a human-centered semantic infrastructure.  
 >  
-> In most everyday situations, meaning does not fully circulate between individuals.
-> What appears as “understanding” often relies on partial alignment,
-> implicit assumptions, and unexamined gaps.
+> It addresses situations where meaning circulates between individuals
+> without ever being fully shared or perfectly aligned,
+> and where this partial alignment becomes a source of friction,
+> misunderstanding, or unintended consequences.
 >  
-> Unikation is designed for situations where these gaps matter,
-> and where meaning must be made explicit, stabilized, and kept negotiable,
-> beyond what natural language alone can sustain.
+> Unikation supports the stabilization and negotiation of meaning
+> beyond what natural language alone reliably provides,
+> while keeping responsibility for meaning on the human side.
+
 
 # Overview
 
