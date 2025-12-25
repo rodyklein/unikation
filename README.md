@@ -1,3 +1,8 @@
+> **Unikation** is a human-centered semantic infrastructure.  
+>  
+> It supports situations where individuals need to understand each other  
+> beyond what natural language alone reliably allows,  
+> while keeping meaning under human responsibility.
 # Unikation
 
 Unikation is an infrastructure for the circulation of meaning between individuals.
