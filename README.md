@@ -3,7 +3,7 @@
 > It supports situations where individuals need to understand each other  
 > beyond what natural language alone reliably allows,  
 > while keeping meaning under human responsibility.
-# Unikation
+# Overview
 
 Unikation is an infrastructure for the circulation of meaning between individuals.
 
