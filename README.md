@@ -6,7 +6,7 @@
 > What appears as understanding often relies on partial alignment, implicit assumptions, and unexamined gaps.  
 > These gaps frequently result in misunderstandings that are subtle, persistent, and costly.
 
-> Unikation supports the stabilization and negotiation of meaning beyond what natural language alone reliably provides, while keeping responsibility for meaning on the human side.
+> Unikation supports the stabilization and negotiation of meaning in situations where natural language interaction alone proves insufficient, while keeping responsibility for meaning on the human side.
 
 ## Overview
 
